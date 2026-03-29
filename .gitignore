@@ -8,3 +8,6 @@ wheels/
 
 # Virtual environments
 .venv
+
+ast-finetuned*/
+best_model/
